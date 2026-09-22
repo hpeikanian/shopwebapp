@@ -1,0 +1,2 @@
+export const brand={name:"POODIN",tagline:"Designed for everyday.",nav:["WOMEN","MEN","KIDS","EVERYDAY"]};
+export const home={hero:{eyebrow:"NEW COLLECTION",title:"Everyday, considered.",cta:"SHOP NEW ARRIVALS"},editorial:{title:"POODIN / EVERYDAY",text:"Essential pieces. Thoughtful fabrics. Made to live in."}};
