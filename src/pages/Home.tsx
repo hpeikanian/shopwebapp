@@ -1,5 +1,5 @@
 import { HeroSection } from '../components/home/HeroSection';
-import { CategoryCards } from '../components/home/CategoryCards';
+import CategoryCards from '../components/home/CategoryCards';
 import { NewArrivals } from '../components/home/NewArrivals';
 import { EditorialSection } from '../components/home/EditorialSection';
 
