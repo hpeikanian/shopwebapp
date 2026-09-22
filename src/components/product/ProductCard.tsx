@@ -1,7 +1,10 @@
-// POODIN Product Card foundation
-// Designed for fashion commerce:
-// image, title, price, color variants and wishlist action.
+import type { Product } from '../../types/product';
 
-export default function ProductCard() {
-  return null;
+export default function ProductCard({ product }: { product: Product }) {
+  return (
+    <article>
+      <div>{product.name}</div>
+      <div>{product.price} {product.currency}</div>
+    </article>
+  );
 }
