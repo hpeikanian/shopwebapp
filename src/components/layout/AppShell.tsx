@@ -1,5 +1,5 @@
-import { Header } from './Header';
-import { BottomNav } from '../navigation/BottomNav';
+import Header from './Header';
+import BottomNav from '../navigation/BottomNav';
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   return (
