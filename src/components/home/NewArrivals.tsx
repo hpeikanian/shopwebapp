@@ -1,5 +1,5 @@
 import { products } from '../../data/products';
-import { ProductCard } from '../product/ProductCard';
+import ProductCard from '../product/ProductCard';
 
 export function NewArrivals() {
   return (
